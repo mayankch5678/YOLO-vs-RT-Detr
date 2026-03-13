@@ -1,7 +1,5 @@
 # YOLO vs RT-DETR on Endoscope Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cJegXyzcf9Pe4kdA4GB3jtt03-cLzU1L)
-
 A comparative analysis of two state-of-the-art object detection architectures — **YOLOv8** and **RT-DETR** — evaluated on an endoscopic imaging dataset. This notebook explores how transformer-based detection compares against the YOLO family in a medical imaging context.
 
 ---
